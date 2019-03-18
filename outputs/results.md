@@ -1,4 +1,6 @@
-| Round | Predicted Winner | Home Team | Away Team | Home Win % | Draw | Away Win % |
+# Stat model results
+## Predictions for 2019 AFL Season
+| Round | Predicted Winner | Home Team | Away Team | Chance Home Team Wins | Chance of Draw | Chance Away Team Wins |
 | --- | --- | --- | --- | ---: | ---: | ---: |
 | 1 | Richmond | Carlton | Richmond | 2.17% | 0.45% | 97.38% |
 | 1 | Geelong | Collingwood | Geelong | 16.82% | 2.00% | 81.19% |
