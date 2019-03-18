@@ -8,6 +8,9 @@ It's more for fun than science as there are various weaknesses of the model even
 Really an excuse to write some code and to participate in a footy tipping comp without keeping up to date with the AFL.
 
 # Stat model results
+
+Feel free to play with the source code (`afl_tipping.py`) and build upon this toy model.
+
 ## My predictions for 2019 AFL Season
 | Round | Predicted Winner | Home Team | Away Team | Chance Home Team Wins | Chance of Draw | Chance Away Team Wins |
 | --- | --- | --- | --- | ---: | ---: | ---: |
